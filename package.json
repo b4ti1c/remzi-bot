@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "debug": "^2.2.0",
-    "iconv": "^2.2.1",
-    "node-telegram-bot-api": "^0.23.3"
+    "debug": "2.2.0",
+    "iconv": "2.2.1",
+    "node-telegram-bot-api": "0.26.0"
   }
 }
